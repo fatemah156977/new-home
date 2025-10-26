@@ -1,0 +1,15 @@
+body{padding:50px;margin: 30px;border-width: 5px;border-color: black red;border-style: solid dashed;border-radius: 30px;
+    outline: 7px solid blue
+}
+table th, tr {border:2px solid blue;}
+
+p {color: red;}
+h1 {color: #f9f10f; font-size: 120px;}
+th {color: green;font-size: 25px;}
+.sp {color: chocolate;}
+.testin {color: blueviolet;}
+div {background-color: beige;width: 900px;}
+h1 {background-image: url("img.png"); background-position: center top;background-size:contain;}
+.type{ font-size: 50px;}
+.sp,
+.testin{font-size:  25px;}
